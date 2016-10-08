@@ -1,0 +1,9 @@
+N:\Visual Studio\Visual Studio 2015\Projects\Junk Generator\Junk Generator\bin\Debug\Junk Generator.exe.config
+N:\Visual Studio\Visual Studio 2015\Projects\Junk Generator\Junk Generator\bin\Debug\Junk Generator.exe
+N:\Visual Studio\Visual Studio 2015\Projects\Junk Generator\Junk Generator\bin\Debug\Junk Generator.pdb
+N:\Visual Studio\Visual Studio 2015\Projects\Junk Generator\Junk Generator\obj\Debug\Junk Generator.csprojResolveAssemblyReference.cache
+N:\Visual Studio\Visual Studio 2015\Projects\Junk Generator\Junk Generator\obj\Debug\Junk_Generator.Form1.resources
+N:\Visual Studio\Visual Studio 2015\Projects\Junk Generator\Junk Generator\obj\Debug\Junk_Generator.Properties.Resources.resources
+N:\Visual Studio\Visual Studio 2015\Projects\Junk Generator\Junk Generator\obj\Debug\Junk Generator.csproj.GenerateResource.Cache
+N:\Visual Studio\Visual Studio 2015\Projects\Junk Generator\Junk Generator\obj\Debug\Junk Generator.exe
+N:\Visual Studio\Visual Studio 2015\Projects\Junk Generator\Junk Generator\obj\Debug\Junk Generator.pdb
